@@ -35,8 +35,7 @@ label
 }
 input
 {
-    width: 10%;
-    padding: 12px 12px;
+    padding: 12px;
    
 }
 .form
@@ -113,13 +112,17 @@ input
     opacity: 1;
     font-size: 22px;
 }
-.profile
-{
-    width: 70px;
-    border-radius: 50%;
-}
-.fromgroup
-{
-    padding-right: 200px;
 
+.form-head
+{
+    text-transform: capitalize;
+    padding-bottom: 20px;
+    opacity: 1;
+}
+.form-content
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
