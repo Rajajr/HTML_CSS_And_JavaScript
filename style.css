@@ -1,0 +1,30 @@
+body
+{
+    background: rgba(196, 89, 8, 0.658);
+    margin-top: -2%;
+    width: 95%;
+    text-align: center;
+    color:black;
+    font-size: 15px;
+}
+header
+{
+    padding: 15px 0;
+    color:black;
+}
+
+.maindiv
+{
+    margin-top: -12%;
+    padding: 15px ;
+    background-color:white;
+    font-family: Cambria, Cochin;
+    box-shadow: 2px 2px 2px 2px;    
+}
+
+.logo
+{
+   width: 300px;
+   padding: 35px 60;  
+
+}
